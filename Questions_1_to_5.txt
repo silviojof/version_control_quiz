@@ -8,6 +8,7 @@ Q 3. What is a repo and explain the difference between a local and remote one?
 
 
 Q 4. Where would you find a local repo?
+Local repo is in our computer (where we cloned the master files).
 
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
