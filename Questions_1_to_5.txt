@@ -12,4 +12,5 @@ Local repo is in our computer (where we cloned the master files).
 
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
+Yes, it is normal.
 
