@@ -2,6 +2,7 @@ Q 1. What are Pull Requests used for?
 Pull request are used to propose changes and request that someone review, pull our contribuitionb and merge them to their branch.
 
 Q 2. Name 2 other examples of Version Control Systems apart from Git.
+Git Hub and Subversion
 
 
 Q 3. What is a repo and explain the difference between a local and remote one? 
