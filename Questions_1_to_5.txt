@@ -5,7 +5,7 @@ Q 2. Name 2 other examples of Version Control Systems apart from Git.
 
 
 Q 3. What is a repo and explain the difference between a local and remote one? 
-
+Repo is a repository of files that are part of a project. Local ones are in our devices and remote ones are in version control systems like Git Hub.
 
 Q 4. Where would you find a local repo?
 
