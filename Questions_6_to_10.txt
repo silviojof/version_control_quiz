@@ -8,6 +8,7 @@ Q 8. What is Git's version of GitHub's Forking?
 
 
 Q 9. What should everyone do when making a commit?
+Explain what was commited.
 
 
 Q 10. Which came first, Git or GitHub?
